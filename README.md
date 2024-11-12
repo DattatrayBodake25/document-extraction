@@ -32,10 +32,13 @@ You need to install the required libraries. Use the following command to install
 
 ```bash
 pip install -r requirements.txt
+```
 
 ##requirements.txt
+
 ```bash
 pdfplumber==0.8.0
 transformers==4.11.3
 torch==1.10.0
 regex==2021.10.23
+```
