@@ -34,7 +34,7 @@ You need to install the required libraries. Use the following command to install
 pip install -r requirements.txt
 ```
 
-##requirements.txt
+## requirements.txt
 
 ```bash
 pdfplumber==0.8.0
